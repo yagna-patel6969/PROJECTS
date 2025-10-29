@@ -1,0 +1,1 @@
+n=int(input("Enter a how many times:"))

@@ -1,0 +1,1 @@
+#1.	WAP to find sum of tuple elements.

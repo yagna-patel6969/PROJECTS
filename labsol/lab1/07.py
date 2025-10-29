@@ -1,0 +1,1 @@
+#WAP to print sum of square of n natural numbers.

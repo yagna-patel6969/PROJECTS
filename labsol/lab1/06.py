@@ -1,0 +1,1 @@
+#WAP to print sum of n natural numbers.
